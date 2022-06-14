@@ -1,4 +1,6 @@
-# title(){return this.options.title||this.options.name}
+# Simple Carousel
+
+A simple carousel created only with javascript.
 
 Quick start:
 
